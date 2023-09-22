@@ -1,0 +1,1 @@
+En esta carpeta se guarda el registro de las consultas que realiza el usuario sobre el clima
